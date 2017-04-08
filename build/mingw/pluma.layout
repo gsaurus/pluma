@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug DLL" />
+	<File name="..\..\include\Pluma\Config.hpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1528" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\Pluma\Provider.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="619" topLine="183" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\Pluma\DLibrary.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2863" topLine="85" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\Pluma\PluginManager.hpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8485" topLine="224" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\Pluma\Connector.hpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2263" topLine="54" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\Pluma\Dir.cpp" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3390" topLine="82" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\Pluma\Pluma.hpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2000" topLine="150" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\Pluma\Host.hpp" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="610" topLine="188" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\Pluma\Host.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1827" topLine="158" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\Pluma\PluginManager.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1387" topLine="180" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\Pluma\Provider.cpp" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1509" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

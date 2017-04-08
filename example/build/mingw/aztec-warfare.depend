@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1398121648 source:c:\users\toshiba\documents\gil\pluma-1.2\example\src\host\main.cpp
+	<Pluma/Pluma.hpp>
+	"Warrior.hpp"
+	"SimpleWarrior.hpp"
+	<iostream>
+
+1398121590 c:\users\toshiba\documents\gil\pluma-1.2\include\pluma\pluma.hpp
+	<Pluma/Config.hpp>
+	<Pluma/Provider.hpp>
+	<Pluma/PluginManager.hpp>
+	<Pluma/Pluma.inl>
+
+1398119589 c:\users\toshiba\documents\gil\pluma-1.2\include\pluma\config.hpp
+
+1398117249 c:\users\toshiba\documents\gil\pluma-1.2\include\pluma\provider.hpp
+	<Pluma/Config.hpp>
+	<string>
+
+1331681196 c:\users\toshiba\documents\gil\pluma-1.2\include\pluma\pluginmanager.hpp
+	<Pluma/Config.hpp>
+	<Pluma/Host.hpp>
+	<string>
+	<map>
+
+1331681196 c:\users\toshiba\documents\gil\pluma-1.2\include\pluma\host.hpp
+	<Pluma/Config.hpp>
+	<Pluma/Provider.hpp>
+	<vector>
+	<list>
+	<map>
+
+1331681196 c:\users\toshiba\documents\gil\pluma-1.2\include\pluma\pluma.inl
+
+1309477952 c:\users\toshiba\documents\gil\pluma-1.2\example\src\interface\warrior.hpp
+	<Pluma/Pluma.hpp>
+
+1302778152 c:\users\toshiba\documents\gil\pluma-1.2\example\src\host\simplewarrior.hpp
+	"Warrior.hpp"
+
+1302778152 source:c:\users\toshiba\documents\gil\pluma-1.2\example\src\interface\warrior.cpp
+	"Warrior.hpp"
+
+1302778152 source:c:\users\toshiba\documents\git\pluma\example\src\interface\warrior.cpp
+	"Warrior.hpp"
+
+1309477952 c:\users\toshiba\documents\git\pluma\example\src\interface\warrior.hpp
+	<Pluma/Pluma.hpp>
+
+1398122407 c:\users\toshiba\documents\git\pluma\include\pluma\pluma.hpp
+	<Pluma/Config.hpp>
+	<Pluma/Provider.hpp>
+	<Pluma/PluginManager.hpp>
+	<Pluma/Pluma.inl>
+
+1398119589 c:\users\toshiba\documents\git\pluma\include\pluma\config.hpp
+
+1398117249 c:\users\toshiba\documents\git\pluma\include\pluma\provider.hpp
+	<Pluma/Config.hpp>
+	<string>
+
+1331681196 c:\users\toshiba\documents\git\pluma\include\pluma\pluginmanager.hpp
+	<Pluma/Config.hpp>
+	<Pluma/Host.hpp>
+	<string>
+	<map>
+
+1331681196 c:\users\toshiba\documents\git\pluma\include\pluma\host.hpp
+	<Pluma/Config.hpp>
+	<Pluma/Provider.hpp>
+	<vector>
+	<list>
+	<map>
+
+1331681196 c:\users\toshiba\documents\git\pluma\include\pluma\pluma.inl
+
+1398122890 source:c:\users\toshiba\documents\git\pluma\example\src\host\main.cpp
+	<Pluma/Pluma.hpp>
+	"Warrior.hpp"
+	"SimpleWarrior.hpp"
+	<iostream>
+
+1302778152 c:\users\toshiba\documents\git\pluma\example\src\host\simplewarrior.hpp
+	"Warrior.hpp"
+

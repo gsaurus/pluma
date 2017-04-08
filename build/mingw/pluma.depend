@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1331681196 source:c:\users\toshiba\documents\gil\pluma-1.2\src\pluma\dir.cpp
+	<Pluma/Dir.hpp>
+	<Pluma/uce-dirent.h>
+	<cstdio>
+	<queue>
+
+1331681196 c:\users\toshiba\documents\gil\pluma-1.2\src\pluma\dir.hpp
+	<Pluma/Config.hpp>
+	<string>
+	<list>
+
+1398119589 c:\users\toshiba\documents\gil\pluma-1.2\include\pluma\config.hpp
+
+1331680530 c:\users\toshiba\documents\gil\pluma-1.2\src\pluma\uce-dirent.h
+	<dirent.h>
+	<ndir.h>
+	<sys/ndir.h>
+	<direct.h>
+	<dir.h>
+	<sys/types.h>
+	<sys/dir.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<dir.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<errno.h>
+
+1331681196 source:c:\users\toshiba\documents\gil\pluma-1.2\src\pluma\dlibrary.cpp
+	<Pluma/DLibrary.hpp>
+	<cstdio>
+	<string>
+
+1331681196 c:\users\toshiba\documents\gil\pluma-1.2\src\pluma\dlibrary.hpp
+	<Pluma/Config.hpp>
+	<string>
+	<Windows.h>
+	<dlfcn.h>
+
+1331681196 source:c:\users\toshiba\documents\gil\pluma-1.2\src\pluma\host.cpp
+	<Pluma/Host.hpp>
+	<cstdio>
+
+1331681196 c:\users\toshiba\documents\gil\pluma-1.2\include\pluma\host.hpp
+	<Pluma/Config.hpp>
+	<Pluma/Provider.hpp>
+	<vector>
+	<list>
+	<map>
+
+1398117249 c:\users\toshiba\documents\gil\pluma-1.2\include\pluma\provider.hpp
+	<Pluma/Config.hpp>
+	<string>
+
+1398119605 source:c:\users\toshiba\documents\gil\pluma-1.2\src\pluma\pluginmanager.cpp
+	<Pluma/PluginManager.hpp>
+	<Pluma/DLibrary.hpp>
+	<Pluma/Dir.hpp>
+	<cstdio>
+
+1331681196 c:\users\toshiba\documents\gil\pluma-1.2\include\pluma\pluginmanager.hpp
+	<Pluma/Config.hpp>
+	<Pluma/Host.hpp>
+	<string>
+	<map>
+
+1331681196 source:c:\users\toshiba\documents\gil\pluma-1.2\src\pluma\provider.cpp
+	<Pluma/Provider.hpp>
+	<Pluma/Host.hpp>
+
+1331681196 source:c:\users\toshiba\documents\git\pluma\src\pluma\dir.cpp
+	<Pluma/Dir.hpp>
+	<Pluma/uce-dirent.h>
+	<cstdio>
+	<queue>
+
+1331681196 c:\users\toshiba\documents\git\pluma\src\pluma\dir.hpp
+	<Pluma/Config.hpp>
+	<string>
+	<list>
+
+1398119589 c:\users\toshiba\documents\git\pluma\include\pluma\config.hpp
+
+1331680530 c:\users\toshiba\documents\git\pluma\src\pluma\uce-dirent.h
+	<dirent.h>
+	<ndir.h>
+	<sys/ndir.h>
+	<direct.h>
+	<dir.h>
+	<sys/types.h>
+	<sys/dir.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<dir.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<errno.h>
+
+1331681196 source:c:\users\toshiba\documents\git\pluma\src\pluma\dlibrary.cpp
+	<Pluma/DLibrary.hpp>
+	<cstdio>
+	<string>
+
+1331681196 c:\users\toshiba\documents\git\pluma\src\pluma\dlibrary.hpp
+	<Pluma/Config.hpp>
+	<string>
+	<Windows.h>
+	<dlfcn.h>
+
+1398119605 source:c:\users\toshiba\documents\git\pluma\src\pluma\pluginmanager.cpp
+	<Pluma/PluginManager.hpp>
+	<Pluma/DLibrary.hpp>
+	<Pluma/Dir.hpp>
+	<cstdio>
+
+1331681196 c:\users\toshiba\documents\git\pluma\include\pluma\pluginmanager.hpp
+	<Pluma/Config.hpp>
+	<Pluma/Host.hpp>
+	<string>
+	<map>
+
+1331681196 c:\users\toshiba\documents\git\pluma\include\pluma\host.hpp
+	<Pluma/Config.hpp>
+	<Pluma/Provider.hpp>
+	<vector>
+	<list>
+	<map>
+
+1398117249 c:\users\toshiba\documents\git\pluma\include\pluma\provider.hpp
+	<Pluma/Config.hpp>
+	<string>
+
+1331681196 source:c:\users\toshiba\documents\git\pluma\src\pluma\provider.cpp
+	<Pluma/Provider.hpp>
+	<Pluma/Host.hpp>
+

@@ -1,0 +1,2 @@
+# pluma
+Plugin Management Framework
